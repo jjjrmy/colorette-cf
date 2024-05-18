@@ -1,4 +1,4 @@
-import * as tty from "tty"
+import * as tty from "node:tty"
 
 const {
   env = {},
